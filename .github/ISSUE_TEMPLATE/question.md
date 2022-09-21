@@ -1,7 +1,7 @@
 ---
 name: Question
 about: 'Question about Test Code '
-title: ''
+title: "{Chapter} {제목}"
 labels: ''
 assignees: ''
 
