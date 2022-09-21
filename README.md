@@ -30,7 +30,7 @@
 | ----- | -------------------------------------------------------------------- |
 | 1     | [What is TDD?](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/1-what-is-tdd) / [The TDD Cycle](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/2-the-tdd-cycle) / [TDD App Setup](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/3-tdd-app-setup)  / [Test Expressions](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/4-test-expressions) |
 | 2     | [Test Expectations](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/5-test-expectations#toc-chapter-010-anchor-004) / [Dependency Injection & Mocks](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/6-dependency-injection-mocks)            |
-| 3     | [Introducing Dog Patch](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/7-introducing-dog-patch) / [RESTful Networking](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/8-restful-networking)                                                               |
-| 4     | 9,10                                                                 |
-| 5     | 11,12,13                                                             |
-| 6     | 14, 15                                                               |
+| 3     | [Introducing Dog Patch](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/7-introducing-dog-patch)                                                               |
+| 4     | [RESTful Networking](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v2.0/chapters/8-restful-networking)                                                                 |
+| 5     |                                                              |
+| 6     |                                                                |
