@@ -1,4 +1,6 @@
-# TestCode-CookBook 🍣 
+# TestCode-CookBook 🍣  <img src="https://avatars.githubusercontent.com/u/104215365?s=200&v=4" width="200" align=right>
+
+테스트 커버리지 100%를 목표로 🚀
 
 ## Goal 🌟
 
